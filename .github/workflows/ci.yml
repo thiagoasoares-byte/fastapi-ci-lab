@@ -26,10 +26,10 @@ jobs:
 
       - name: Rodar Testes
         run: pytest -v
-      
-            - name: Subir a API e testar requisição (Integração)
+
+      - name: Subir a API e testar requisição (Integração)
         run: |
           fastapi run main.py --port 8000 &
-          sleep 3
+          sleep 5
           curl -f http://localhost:8000/
           curl -f http://localhost:8000/somar/10/20
