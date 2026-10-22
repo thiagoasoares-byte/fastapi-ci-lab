@@ -48,19 +48,3 @@ pytest -v
 | GET | `/` | `{"status": "ok"}` |
 | GET | `/somar/{a}/{b}` | `{"resultado": a + b}` |
 
-## Screenshots
-
-Adicione aqui os prints da aba Actions (execução verde, execução com falha e PR bloqueado) em `docs/`.
-
-## Roadmap
-
-- [x] Pipeline de testes com pytest
-- [x] Proteção da branch `main`
-- [x] Matriz de versões do Python
-- [x] Teste de integração com curl
-- [ ] Cobertura de testes no CI
-- [ ] Deploy automático após o merge
-
-## Licença
-
-MIT
