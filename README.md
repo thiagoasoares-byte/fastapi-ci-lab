@@ -4,7 +4,7 @@
 
 API FastAPI usada para praticar Integração Contínua com GitHub Actions: o pipeline testa cada push e cada Pull Request, e a branch `main` só aceita merge com os testes verdes.
 
-## Problema
+## Problemas
 
 Código com bug chegando na branch principal. O CI funciona como uma barreira automática antes do merge.
 
