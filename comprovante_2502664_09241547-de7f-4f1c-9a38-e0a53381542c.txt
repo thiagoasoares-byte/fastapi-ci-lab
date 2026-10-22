@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: 09241547-de7f-4f1c-9a38-e0a53381542c
+  Data/Hora:         21/10/2026, 22:37:59
+  Aluno:             Thiago Alves Soares
+  RA:                2502664
+  Atividade:         AST12
+  Status:            No Prazo
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/thiagoasoares-byte/fastapi-ci-lab
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: 09241547-de7f-4f1c-9a38-e0a53381542c-2502664
+
+════════════════════════════════════════════════════════
